@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7gp7pbMxtQk4FyniBF6hagz/LsLTZdYA2X8Befg2vih94gwwSDs9QGz9bYrsE/zOSon5OxEZADTYNlAQdy2LDQ==",
+  "dgSpecHash": "vBOnI/3HIBZ5UN8lmzAtpPXTMPPBlf49BzaBQ5OBFEKlWbhiPc3TCGUU+eoXZ8iMRczOrLn5lrsd7XTnygeX4A==",
   "success": true,
-  "projectFilePath": "/Users/apple/work/azure/readit/inventory/inventory.csproj",
+  "projectFilePath": "/Users/apple/work/azure/dotnet/inventory2/inventory.csproj",
   "expectedPackageFiles": [
     "/Users/apple/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

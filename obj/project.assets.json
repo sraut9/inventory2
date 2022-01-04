@@ -5655,11 +5655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/apple/work/azure/readit/inventory/inventory.csproj",
+      "projectUniqueName": "/Users/apple/work/azure/dotnet/inventory2/inventory.csproj",
       "projectName": "inventory",
-      "projectPath": "/Users/apple/work/azure/readit/inventory/inventory.csproj",
+      "projectPath": "/Users/apple/work/azure/dotnet/inventory2/inventory.csproj",
       "packagesPath": "/Users/apple/.nuget/packages/",
-      "outputPath": "/Users/apple/work/azure/readit/inventory/obj/",
+      "outputPath": "/Users/apple/work/azure/dotnet/inventory2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/apple/.nuget/NuGet/NuGet.Config"
